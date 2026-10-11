@@ -7,7 +7,7 @@ Complete Arabic translation for Silver Pines by Abu Saud | تعريب كامل �
 ## الحالة
 
 - الإصدار: 20.1
-- ملف التحميل: سيُضاف هنا بعد نشر الإصدار.
+- - ملف التحميل: [تحميل التعريب v20.1](https://github.com/abusaud122/Silver-Pines-Arabic-Translation-Abu-Saud/releases/tag/v20.1)
 
 ## التثبيت
 
